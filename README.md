@@ -1,2 +1,2 @@
-$${\color{ff5c99}ATOM \space \color{ff5c99} ♡\space \color{ff5c99}EVE}$$
-<p align="center"> <img width="736" height="368" alt="image" src="https://github.com/user-attachments/assets/01abd278-013c-42ad-90b7-e4d484f765bd" />
+
+<p align="center"> <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Bodoni&duration=3500&pause=900&color=4C9F81&width=435&lines=%22+You're+all%2C+yes+you're+all+I+ever+desire;...still%2C+I'll+kill+you+in+the+end.+%22" alt="Typing SVG" /></a>
